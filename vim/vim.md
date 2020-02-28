@@ -1,9 +1,9 @@
 ## Установка плагинов для Vim
 
-https://www.youtube.com/watch?v=xmYil6Y9X68&t=2s - чувак неплохо расказывает об настройке Vim и установке плагинов
-Файл конфигурации для vim форкнул https://gist.github.com/parshyn-dima/4da1aed36d1b32ecc3508ec0b2bd4dda
+[youtube](https://www.youtube.com/watch?v=xmYil6Y9X68&t=2s) - чувак неплохо расказывает об настройке Vim и установке плагинов
+Файл конфигурации для vim форкнул [gist](https://gist.github.com/parshyn-dima/4da1aed36d1b32ecc3508ec0b2bd4dda)
 Для настройки vim необходимо создать в домашнем каталоге файл **.vimrc** и скопировать содержимое сохраненного файла конфигурации.
-Далее необходимо установить менеджер плагинов vim Vundle https://github.com/VundleVim/Vundle.vim
+Далее необходимо установить менеджер плагинов vim Vundle [github](https://github.com/VundleVim/Vundle.vim)
 
     git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim
 
